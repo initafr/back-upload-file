@@ -87,7 +87,7 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
+# dotenv environment constiables file
 .env
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -107,5 +107,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+*.jpg
 
 # End of https://www.gitignore.io/api/node,macos
